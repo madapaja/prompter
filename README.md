@@ -29,6 +29,8 @@ License
 =======
 
 The MIT License (MIT)
+---------------------
+
 Copyright © 2012 IWASAKI Koji (@madapaja).
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
