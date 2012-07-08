@@ -1,0 +1,3 @@
+.. 2012/07/03 madapaja 00000000
+edit message
+    .. 2012/07/05 sync 96E813z
