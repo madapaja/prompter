@@ -2,6 +2,7 @@ prompter
 ========
 
 Symfony2 日本語ドキュメントの翻訳度を表示するためのちょっとしたツールです。
+（PHP5.4以上で動作します）
 
 Usage
 =====
@@ -11,7 +12,7 @@ Usage
 git clone git://github.com/symfony/symfony-docs.git
 
 # Symfony2日本語ドキュメントを取得
-git://github.com/symfony-japan/symfony-docs-ja.git
+git clone git://github.com/symfony-japan/symfony-docs-ja.git
 
 # prompter を取得
 git clone git://github.com/madapaja/prompter.git
