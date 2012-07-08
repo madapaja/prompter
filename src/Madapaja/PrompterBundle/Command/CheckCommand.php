@@ -176,9 +176,9 @@ class CheckCommand extends Command
             $output->writeln(sprintf('destination: <info>%s</info>', $dest));
             $output->writeln('');
 
-            $output->writeln('       source              destination');
-            $output->writeln('   hash       date       hash       date    filename');
-            $output->writeln('---------- ---------- ---------- ---------- --------');
+            $output->writeln('         source              destination');
+            $output->writeln('     hash       date       hash       date    filename');
+            $output->writeln('  ---------- ---------- ---------- ---------- --------');
 
             foreach ($files as $compere) {
                 switch ($compere->status) {
