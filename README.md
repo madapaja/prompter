@@ -3,6 +3,8 @@ prompter
 
 Symfony2 日本語ドキュメントのSymfony2ドキュメントの翻訳の差分をチェックするためのちょっとしたツールです。
 
+[![Build Status](https://secure.travis-ci.org/madapaja/prompter.png?branch=master)](http://travis-ci.org/madapaja/prompter)
+
 require
 =======
 
